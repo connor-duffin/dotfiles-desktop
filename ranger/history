@@ -1,0 +1,50 @@
+search hols
+rename chib-96.pdf
+rename panel-map-sites.pdf
+search ODE
+rename MM1.pdf
+search chian
+search nn
+search taleb
+open_with gvim
+search braham
+
+search bertolacci
+search polson
+rename thesis-draft-14-final-draft
+rename Thesis-
+rename Final
+bulkrename
+search blitz
+search intro
+search 
+rename Goldstein-10.pdf
+rename goldstein-10.pdf
+rename Jeans-13.pdf
+rename jeans-13.pdf
+rename liu-west-09.pdf
+rename bigoni-14.pdf
+rename ohagan-04.pdf
+rename osborne-et-al-78.pdf
+rename osborne-et-al-80.pdf
+search gelman
+mkdir phd-proposal-final
+search qute
+open_with 2to3
+search open
+rename Morrowind
+open_with vim
+search i3
+find 
+open_with
+open_with 
+rename feh
+rename i3
+rename ncmpcpp
+rename ranger
+mkdir clrs
+shell vim merge-sort.py
+terminal
+delete
+shell vim merge-sort.R
+shell vim rec-insertion-sort.R
