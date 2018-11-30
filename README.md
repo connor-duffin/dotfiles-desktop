@@ -6,7 +6,6 @@ Program configs included are:
 
 + feh
 + i3
-+ mpd
 + ncmpcpp
 + ranger
 + zathura
