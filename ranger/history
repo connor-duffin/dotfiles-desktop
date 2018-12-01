@@ -45,6 +45,6 @@ rename ranger
 mkdir clrs
 shell vim merge-sort.py
 terminal
-delete
 shell vim merge-sort.R
 shell vim rec-insertion-sort.R
+delete
