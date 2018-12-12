@@ -1,7 +1,3 @@
-search hols
-rename chib-96.pdf
-rename panel-map-sites.pdf
-search ODE
 rename MM1.pdf
 search chian
 search nn
@@ -44,7 +40,11 @@ rename ncmpcpp
 rename ranger
 mkdir clrs
 shell vim merge-sort.py
-terminal
 shell vim merge-sort.R
 shell vim rec-insertion-sort.R
+open_with j
+terminal
+rename 
+rename data-
+rename prepare-data.R
 delete
