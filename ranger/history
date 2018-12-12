@@ -1,10 +1,8 @@
-rename MM1.pdf
 search chian
 search nn
 search taleb
 open_with gvim
 search braham
-
 search bertolacci
 search polson
 rename thesis-draft-14-final-draft
@@ -48,3 +46,5 @@ rename
 rename data-
 rename prepare-data.R
 delete
+shell 
+
